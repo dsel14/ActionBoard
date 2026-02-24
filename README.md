@@ -1,3 +1,3 @@
 # ActionBoard
 
-### Designed to make organizing competitive matches simple, structured, and transparent. It removes the friction of informal coordination by providing a centralized system for posting challenges, managing responses, and confirming matches.
+### ActionBoard is a structured challenge-based matchmaking platform built specifically for competitive pool. It enables players to create, discover, and respond to organized match postings at specific venues.
